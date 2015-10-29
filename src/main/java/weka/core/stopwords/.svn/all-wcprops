@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weka/!svn/ver/10983/trunk/weka/src/main/java/weka/core/stopwords
+END
+MultiStopwords.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10983/trunk/weka/src/main/java/weka/core/stopwords/MultiStopwords.java
+END
+Rainbow.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/10978/trunk/weka/src/main/java/weka/core/stopwords/Rainbow.java
+END
+StopwordsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10978/trunk/weka/src/main/java/weka/core/stopwords/StopwordsHandler.java
+END
+WordsFromFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/10978/trunk/weka/src/main/java/weka/core/stopwords/WordsFromFile.java
+END
+AbstractFileBasedStopwords.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10982/trunk/weka/src/main/java/weka/core/stopwords/AbstractFileBasedStopwords.java
+END
+AbstractStopwords.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10978/trunk/weka/src/main/java/weka/core/stopwords/AbstractStopwords.java
+END
+Null.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/10978/trunk/weka/src/main/java/weka/core/stopwords/Null.java
+END
+RegExpFromFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10979/trunk/weka/src/main/java/weka/core/stopwords/RegExpFromFile.java
+END

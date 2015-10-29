@@ -1,0 +1,1541 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weka/!svn/ver/10545/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings
+END
+RegressionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/RegressionModel.java
+END
+NormContinuous.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NormContinuous.java
+END
+COUNTTABLETYPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/COUNTTABLETYPE.java
+END
+BayesInputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BayesInputs.java
+END
+PCovCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PCovCell.java
+END
+OUTLIERTREATMENTMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/OUTLIERTREATMENTMETHOD.java
+END
+INVALIDVALUETREATMENTMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/INVALIDVALUETREATMENTMETHOD.java
+END
+NumericInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NumericInfo.java
+END
+TreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TreeModel.java
+END
+SimpleRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SimpleRule.java
+END
+SVMCLASSIFICATIONMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SVMCLASSIFICATIONMETHOD.java
+END
+SimpleSetPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SimpleSetPredicate.java
+END
+ClassLabels.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ClassLabels.java
+END
+NeuralInputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NeuralInputs.java
+END
+CONTSCORINGMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CONTSCORINGMETHOD.java
+END
+ChildParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ChildParent.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10545/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ObjectFactory.java
+END
+Con1.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/10545/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Con1.java
+END
+BaselineModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BaselineModel.java
+END
+SimpleMatching.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SimpleMatching.java
+END
+KNNInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/KNNInput.java
+END
+Row.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Row.java
+END
+TextDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TextDictionary.java
+END
+GaussianDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/GaussianDistribution.java
+END
+RuleSelectionMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/RuleSelectionMethod.java
+END
+Coefficient.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Coefficient.java
+END
+TargetValueCounts.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TargetValueCounts.java
+END
+TIMESERIESALGORITHM.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TIMESERIESALGORITHM.java
+END
+Quantile.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Quantile.java
+END
+MultivariateStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MultivariateStats.java
+END
+DerivedField.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DerivedField.java
+END
+PairCounts.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PairCounts.java
+END
+ConfusionMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ConfusionMatrix.java
+END
+RESULTFEATURE.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/RESULTFEATURE.java
+END
+TargetValueCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TargetValueCount.java
+END
+PartitionFieldStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PartitionFieldStats.java
+END
+SequenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SequenceRule.java
+END
+XCoordinates.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/XCoordinates.java
+END
+YCoordinates.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/YCoordinates.java
+END
+CorrelationMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CorrelationMethods.java
+END
+TableLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TableLocator.java
+END
+TimeCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TimeCycle.java
+END
+SquaredEuclidean.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SquaredEuclidean.java
+END
+SeasonalityExpoSmooth.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SeasonalityExpoSmooth.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/package-info.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Node.java
+END
+Tanimoto.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Tanimoto.java
+END
+TimeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TimeValue.java
+END
+Decision.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Decision.java
+END
+MapValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MapValues.java
+END
+SigmoidKernelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SigmoidKernelType.java
+END
+SupportVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SupportVector.java
+END
+Coefficients.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Coefficients.java
+END
+TimeSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TimeSeries.java
+END
+DATATYPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DATATYPE.java
+END
+TextModelNormalization.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TextModelNormalization.java
+END
+MULTIPLEMODELMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MULTIPLEMODELMETHOD.java
+END
+Decisions.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Decisions.java
+END
+BayesOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BayesOutput.java
+END
+Categories.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Categories.java
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Target.java
+END
+Jaccard.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Jaccard.java
+END
+PoissonDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PoissonDistribution.java
+END
+InstanceFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/InstanceFields.java
+END
+MISSINGVALUETREATMENTMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MISSINGVALUETREATMENTMETHOD.java
+END
+Covariances.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Covariances.java
+END
+ModelLiftGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ModelLiftGraph.java
+END
+BoundaryValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BoundaryValues.java
+END
+SupportVectorMachineModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SupportVectorMachineModel.java
+END
+Discretize.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Discretize.java
+END
+NeuralOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NeuralOutput.java
+END
+Constraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Constraints.java
+END
+Level.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Level.java
+END
+Partition.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Partition.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Category.java
+END
+TextCorpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TextCorpus.java
+END
+UnivariateStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/UnivariateStats.java
+END
+COMPAREFUNCTION.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/COMPAREFUNCTION.java
+END
+TrendExpoSmooth.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TrendExpoSmooth.java
+END
+MiningModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MiningModel.java
+END
+VerificationFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/VerificationFields.java
+END
+TIMEANCHOR2.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TIMEANCHOR2.java
+END
+ScoreDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ScoreDistribution.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Value.java
+END
+UniformDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/UniformDistribution.java
+END
+TIMEEXCEPTIONTYPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TIMEEXCEPTIONTYPE.java
+END
+FieldValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/FieldValue.java
+END
+Cluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Cluster.java
+END
+SupportVectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SupportVectors.java
+END
+TextDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TextDocument.java
+END
+RuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/RuleSet.java
+END
+CityBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CityBlock.java
+END
+AnyDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/AnyDistribution.java
+END
+VectorFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/VectorFields.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Constant.java
+END
+Output.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Output.java
+END
+MiningSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MiningSchema.java
+END
+AntecedentSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/AntecedentSequence.java
+END
+CompoundPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CompoundPredicate.java
+END
+INTSparseArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/INTSparseArray.java
+END
+ClusteringModelQuality.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ClusteringModelQuality.java
+END
+SimplePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SimplePredicate.java
+END
+SetReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SetReference.java
+END
+Counts.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Counts.java
+END
+TimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TimeException.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Parameter.java
+END
+BaselineCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BaselineCell.java
+END
+PredictorTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PredictorTerm.java
+END
+DocumentTermMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DocumentTermMatrix.java
+END
+NearestNeighborModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NearestNeighborModel.java
+END
+DefineFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DefineFunction.java
+END
+OutputField.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/OutputField.java
+END
+Anova.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Anova.java
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Matrix.java
+END
+NeuralInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NeuralInput.java
+END
+CorrelationFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CorrelationFields.java
+END
+NumericPredictor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NumericPredictor.java
+END
+ArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ArrayType.java
+END
+FieldRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/FieldRef.java
+END
+TrainingInstances.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TrainingInstances.java
+END
+RULEFEATURE.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/RULEFEATURE.java
+END
+ClusteringField.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ClusteringField.java
+END
+ParameterField.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ParameterField.java
+END
+Aggregate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Aggregate.java
+END
+RegressionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/RegressionTable.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Header.java
+END
+TimeAnchor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TimeAnchor.java
+END
+TimeSeriesModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TimeSeriesModel.java
+END
+TransformationDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TransformationDictionary.java
+END
+CATSCORINGMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CATSCORINGMETHOD.java
+END
+TIMESERIESUSAGE.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TIMESERIESUSAGE.java
+END
+KohonenMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/KohonenMap.java
+END
+Chebychev.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Chebychev.java
+END
+Segment.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Segment.java
+END
+NOTRUECHILDSTRATEGY.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NOTRUECHILDSTRATEGY.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Application.java
+END
+LINKFUNCTION.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/LINKFUNCTION.java
+END
+ModelExplanation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ModelExplanation.java
+END
+NaiveBayesModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NaiveBayesModel.java
+END
+ACTIVATIONFUNCTION.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ACTIVATIONFUNCTION.java
+END
+InstanceField.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/InstanceField.java
+END
+Delimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Delimiter.java
+END
+Regression.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Regression.java
+END
+LiftGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/LiftGraph.java
+END
+RandomLiftGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/RandomLiftGraph.java
+END
+SupportVectorMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SupportVectorMachine.java
+END
+InlineTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/InlineTable.java
+END
+INTERPOLATIONMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/INTERPOLATIONMETHOD.java
+END
+FieldValueCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/FieldValueCount.java
+END
+MISSINGVALUESTRATEGY.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MISSINGVALUESTRATEGY.java
+END
+False.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/False.java
+END
+NormDiscrete.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NormDiscrete.java
+END
+DiscretizeBin.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DiscretizeBin.java
+END
+REALSparseArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/REALSparseArray.java
+END
+EventValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/EventValues.java
+END
+Scorecard.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Scorecard.java
+END
+FIELDUSAGETYPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/FIELDUSAGETYPE.java
+END
+CompoundRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CompoundRule.java
+END
+OPTYPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/OPTYPE.java
+END
+NNNORMALIZATIONMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NNNORMALIZATIONMETHOD.java
+END
+BayesInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BayesInput.java
+END
+ParamMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ParamMatrix.java
+END
+CategoricalPredictor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CategoricalPredictor.java
+END
+Predictor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Predictor.java
+END
+PCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PCell.java
+END
+BaselineStratum.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BaselineStratum.java
+END
+LinearNorm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/LinearNorm.java
+END
+GAP.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/GAP.java
+END
+FactorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/FactorList.java
+END
+Itemset.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Itemset.java
+END
+Minkowski.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Minkowski.java
+END
+ConsequentSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ConsequentSequence.java
+END
+DataField.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DataField.java
+END
+RadialBasisKernelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/RadialBasisKernelType.java
+END
+ROC.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ROC.java
+END
+Apply.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Apply.java
+END
+PolynomialKernelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PolynomialKernelType.java
+END
+KNNInputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/KNNInputs.java
+END
+BinarySimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BinarySimilarity.java
+END
+AnovaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/AnovaRow.java
+END
+AssociationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/AssociationModel.java
+END
+DELIMITER2.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DELIMITER2.java
+END
+Timestamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Timestamp.java
+END
+PMML.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PMML.java
+END
+Characteristics.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Characteristics.java
+END
+FieldColumnPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/FieldColumnPair.java
+END
+DiscrStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DiscrStats.java
+END
+MiningBuildTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MiningBuildTask.java
+END
+VerificationField.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/VerificationField.java
+END
+SequenceReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SequenceReference.java
+END
+MININGFUNCTION.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MININGFUNCTION.java
+END
+LiftData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/LiftData.java
+END
+ItemRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ItemRef.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Item.java
+END
+MultivariateStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MultivariateStat.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Attribute.java
+END
+RuleSetModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/RuleSetModel.java
+END
+PPMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PPMatrix.java
+END
+BaseCumHazardTables.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BaseCumHazardTables.java
+END
+AssociationRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/AssociationRule.java
+END
+BoundaryValueMeans.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BoundaryValueMeans.java
+END
+LocalTransformations.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/LocalTransformations.java
+END
+TextModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TextModel.java
+END
+ROCGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ROCGraph.java
+END
+CovariateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CovariateList.java
+END
+BASELINETESTSTATISTIC.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/BASELINETESTSTATISTIC.java
+END
+ParameterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ParameterList.java
+END
+DecisionTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DecisionTree.java
+END
+LinearKernelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/LinearKernelType.java
+END
+PPCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PPCell.java
+END
+REGRESSIONNORMALIZATIONMETHOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/REGRESSIONNORMALIZATIONMETHOD.java
+END
+SequenceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SequenceModel.java
+END
+ComparisonMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ComparisonMeasure.java
+END
+Comparisons.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Comparisons.java
+END
+GeneralRegressionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/GeneralRegressionModel.java
+END
+NeuralNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NeuralNetwork.java
+END
+CorrelationValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CorrelationValues.java
+END
+TestDistributions.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TestDistributions.java
+END
+Correlations.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Correlations.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Sequence.java
+END
+Targets.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Targets.java
+END
+SetPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SetPredicate.java
+END
+Taxonomy.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Taxonomy.java
+END
+ModelStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ModelStats.java
+END
+MatCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MatCell.java
+END
+Interval.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Interval.java
+END
+TextModelSimiliarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TextModelSimiliarity.java
+END
+VectorDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/VectorDictionary.java
+END
+SVMREPRESENTATION.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/SVMREPRESENTATION.java
+END
+VALIDTIMESPEC.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/VALIDTIMESPEC.java
+END
+OptimumLiftGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/OptimumLiftGraph.java
+END
+ClusteringModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ClusteringModel.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Annotation.java
+END
+Extension.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Extension.java
+END
+True.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/True.java
+END
+Alternate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Alternate.java
+END
+NeuralLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NeuralLayer.java
+END
+MiningField.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MiningField.java
+END
+PredictiveModelQuality.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PredictiveModelQuality.java
+END
+Euclidean.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Euclidean.java
+END
+NeuralOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/NeuralOutputs.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Time.java
+END
+DataDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/DataDictionary.java
+END
+MissingValueWeights.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/MissingValueWeights.java
+END
+CUMULATIVELINKFUNCTION.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/CUMULATIVELINKFUNCTION.java
+END
+ModelVerification.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ModelVerification.java
+END
+Neuron.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10545/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Neuron.java
+END
+ExponentialSmoothing.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ExponentialSmoothing.java
+END
+ResultField.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ResultField.java
+END
+ContStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/ContStats.java
+END
+Baseline.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Baseline.java
+END
+TargetValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/TargetValue.java
+END
+VectorInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/VectorInstance.java
+END
+Characteristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Characteristic.java
+END
+PCovMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/PCovMatrix.java
+END
+Segmentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10538/trunk/weka/src/main/java/weka/core/pmml/jaxbbindings/Segmentation.java
+END

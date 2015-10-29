@@ -1,0 +1,58 @@
+10
+
+dir
+12042
+https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/test/resources/wekarefs/weka/classifiers
+https://svn.cms.waikato.ac.nz/svn/weka
+
+
+
+2015-01-28T02:54:21.377769Z
+11524
+mhall
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+lazy
+dir
+
+trees
+dir
+
+bayes
+dir
+
+mi
+dir
+
+pmml
+dir
+
+meta
+dir
+
+evaluation
+dir
+
+functions
+dir
+
+rules
+dir
+
+misc
+dir
+

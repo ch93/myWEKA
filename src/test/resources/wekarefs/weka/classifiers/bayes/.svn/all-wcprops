@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes
+END
+DMNBtextTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/DMNBtextTest.ref
+END
+NaiveBayesMultinomialTextTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/NaiveBayesMultinomialTextTest.ref
+END
+NaiveBayesTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/NaiveBayesTest.ref
+END
+HNBTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/HNBTest.ref
+END
+AODETest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/AODETest.ref
+END
+NaiveBayesMultinomialUpdateableTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/NaiveBayesMultinomialUpdateableTest.ref
+END
+BayesNetTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/BayesNetTest.ref
+END
+BayesianLogisticRegressionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/BayesianLogisticRegressionTest.ref
+END
+ComplementNaiveBayesTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/ComplementNaiveBayesTest.ref
+END
+AODEsrTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/AODEsrTest.ref
+END
+NaiveBayesUpdateableTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/NaiveBayesUpdateableTest.ref
+END
+WAODETest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/WAODETest.ref
+END
+NaiveBayesSimpleTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/NaiveBayesSimpleTest.ref
+END
+NaiveBayesMultinomialTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/bayes/NaiveBayesMultinomialTest.ref
+END

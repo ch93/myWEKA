@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/12037/trunk/weka/src/main/java/weka/filters/supervised/attribute
+END
+ClassOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/12037/trunk/weka/src/main/java/weka/filters/supervised/attribute/ClassOrder.java
+END
+ClassConditionalProbabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/weka/!svn/ver/11739/trunk/weka/src/main/java/weka/filters/supervised/attribute/ClassConditionalProbabilities.java
+END
+AddClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/12037/trunk/weka/src/main/java/weka/filters/supervised/attribute/AddClassification.java
+END
+Discretize.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/12037/trunk/weka/src/main/java/weka/filters/supervised/attribute/Discretize.java
+END
+NominalToBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/12037/trunk/weka/src/main/java/weka/filters/supervised/attribute/NominalToBinary.java
+END
+PartitionMembership.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/11932/trunk/weka/src/main/java/weka/filters/supervised/attribute/PartitionMembership.java
+END
+AttributeSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/10866/trunk/weka/src/main/java/weka/filters/supervised/attribute/AttributeSelection.java
+END
+MergeNominalValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/12037/trunk/weka/src/main/java/weka/filters/supervised/attribute/MergeNominalValues.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weka/!svn/ver/11753/trunk/weka/src/main/java/weka/datagenerators
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/10203/trunk/weka/src/main/java/weka/datagenerators/Test.java
+END
+DataGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/10583/trunk/weka/src/main/java/weka/datagenerators/DataGenerator.java
+END
+ClassificationGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/10203/trunk/weka/src/main/java/weka/datagenerators/ClassificationGenerator.java
+END
+RegressionGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10203/trunk/weka/src/main/java/weka/datagenerators/RegressionGenerator.java
+END
+ClusterGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/10203/trunk/weka/src/main/java/weka/datagenerators/ClusterGenerator.java
+END
+ClusterDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/10203/trunk/weka/src/main/java/weka/datagenerators/ClusterDefinition.java
+END

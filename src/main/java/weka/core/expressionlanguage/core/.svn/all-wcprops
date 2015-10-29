@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/11764/trunk/weka/src/main/java/weka/core/expressionlanguage/core
+END
+Macro.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/core/Macro.java
+END
+SemanticException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/core/SemanticException.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/11764/trunk/weka/src/main/java/weka/core/expressionlanguage/core/Node.java
+END
+SyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/core/SyntaxException.java
+END
+MacroDeclarations.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/core/MacroDeclarations.java
+END
+VariableDeclarations.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/11764/trunk/weka/src/main/java/weka/core/expressionlanguage/core/VariableDeclarations.java
+END

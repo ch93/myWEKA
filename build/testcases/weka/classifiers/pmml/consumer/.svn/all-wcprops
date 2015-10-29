@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/10160/trunk/weka/src/test/java/weka/classifiers/pmml/consumer
+END
+NeuralNetworkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10160/trunk/weka/src/test/java/weka/classifiers/pmml/consumer/NeuralNetworkTest.java
+END
+RegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/10160/trunk/weka/src/test/java/weka/classifiers/pmml/consumer/RegressionTest.java
+END
+TreeModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10160/trunk/weka/src/test/java/weka/classifiers/pmml/consumer/TreeModelTest.java
+END
+RuleSetModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/10160/trunk/weka/src/test/java/weka/classifiers/pmml/consumer/RuleSetModelTest.java
+END
+SupportVectorMachineModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/10160/trunk/weka/src/test/java/weka/classifiers/pmml/consumer/SupportVectorMachineModelTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/8034/trunk/weka/src/test/java/weka/classifiers/pmml/consumer/AllTests.java
+END
+AbstractPMMLClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/10160/trunk/weka/src/test/java/weka/classifiers/pmml/consumer/AbstractPMMLClassifierTest.java
+END
+GeneralRegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/10160/trunk/weka/src/test/java/weka/classifiers/pmml/consumer/GeneralRegressionTest.java
+END

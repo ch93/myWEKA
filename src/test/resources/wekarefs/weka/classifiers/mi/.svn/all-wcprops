@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/11422/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi
+END
+MDDTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/11412/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MDDTest.ref
+END
+MINNDTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MINNDTest.ref
+END
+MIWrapperTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MIWrapperTest.ref
+END
+MIBoostTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MIBoostTest.ref
+END
+MIDDTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/11422/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MIDDTest.ref
+END
+SimpleMITest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/SimpleMITest.ref
+END
+CitationKNNTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/CitationKNNTest.ref
+END
+TLCTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/TLCTest.ref
+END
+TLDTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/TLDTest.ref
+END
+MISMOTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MISMOTest.ref
+END
+MIOptimalBallTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MIOptimalBallTest.ref
+END
+MISVMTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MISVMTest.ref
+END
+TLDSimpleTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/TLDSimpleTest.ref
+END
+MIEMDDTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/11422/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MIEMDDTest.ref
+END
+MIRITest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MIRITest.ref
+END
+QuickDDIterativeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/QuickDDIterativeTest.ref
+END
+MITITest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MITITest.ref
+END
+MILRTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/MILRTest.ref
+END

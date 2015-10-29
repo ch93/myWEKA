@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/lazy
+END
+KStarTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/lazy/KStarTest.ref
+END
+IBkTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/lazy/IBkTest.ref
+END
+IB1Test.ref
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/lazy/IB1Test.ref
+END
+LWLTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/lazy/LWLTest.ref
+END
+LBRTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/11255/trunk/weka/src/test/resources/wekarefs/weka/classifiers/lazy/LBRTest.ref
+END

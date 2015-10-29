@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/10531/trunk/weka/src/main/java/weka/classifiers/trees/ht
+END
+SplitMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/9720/trunk/weka/src/main/java/weka/classifiers/trees/ht/SplitMetric.java
+END
+SplitNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10169/trunk/weka/src/main/java/weka/classifiers/trees/ht/SplitNode.java
+END
+ConditionalSufficientStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/ConditionalSufficientStats.java
+END
+NBNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/NBNode.java
+END
+LearningNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/LearningNode.java
+END
+GiniSplitMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/9720/trunk/weka/src/main/java/weka/classifiers/trees/ht/GiniSplitMetric.java
+END
+InfoGainSplitMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/9720/trunk/weka/src/main/java/weka/classifiers/trees/ht/InfoGainSplitMetric.java
+END
+UnivariateNumericBinarySplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/UnivariateNumericBinarySplit.java
+END
+WeightMass.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/9707/trunk/weka/src/main/java/weka/classifiers/trees/ht/WeightMass.java
+END
+LeafNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/LeafNode.java
+END
+NominalConditionalSufficientStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/10432/trunk/weka/src/main/java/weka/classifiers/trees/ht/NominalConditionalSufficientStats.java
+END
+InactiveHNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/InactiveHNode.java
+END
+NBNodeAdaptive.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/NBNodeAdaptive.java
+END
+SplitCandidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/SplitCandidate.java
+END
+ActiveHNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/ActiveHNode.java
+END
+Split.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/10531/trunk/weka/src/main/java/weka/classifiers/trees/ht/Split.java
+END
+HNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/9707/trunk/weka/src/main/java/weka/classifiers/trees/ht/HNode.java
+END
+GaussianConditionalSufficientStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/GaussianConditionalSufficientStats.java
+END
+UnivariateNominalMultiwaySplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/9705/trunk/weka/src/main/java/weka/classifiers/trees/ht/UnivariateNominalMultiwaySplit.java
+END

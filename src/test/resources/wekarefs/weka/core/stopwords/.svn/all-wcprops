@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/10983/trunk/weka/src/test/resources/wekarefs/weka/core/stopwords
+END
+NullTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/10981/trunk/weka/src/test/resources/wekarefs/weka/core/stopwords/NullTest.ref
+END
+RegExpFromFileTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/10981/trunk/weka/src/test/resources/wekarefs/weka/core/stopwords/RegExpFromFileTest.ref
+END
+MultiStopwordsTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/10983/trunk/weka/src/test/resources/wekarefs/weka/core/stopwords/MultiStopwordsTest.ref
+END
+RainbowTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/10981/trunk/weka/src/test/resources/wekarefs/weka/core/stopwords/RainbowTest.ref
+END
+WordsFromFileTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/10981/trunk/weka/src/test/resources/wekarefs/weka/core/stopwords/WordsFromFileTest.ref
+END

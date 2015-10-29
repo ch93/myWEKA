@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weka/!svn/ver/11805/trunk/weka/src/main/java/weka/core/metastore
+END
+MetaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/11805/trunk/weka/src/main/java/weka/core/metastore/MetaStore.java
+END
+XMLFileBasedMetaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/11805/trunk/weka/src/main/java/weka/core/metastore/XMLFileBasedMetaStore.java
+END

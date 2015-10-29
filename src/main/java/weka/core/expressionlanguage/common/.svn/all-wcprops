@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/11764/trunk/weka/src/main/java/weka/core/expressionlanguage/common
+END
+NoMacros.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/common/NoMacros.java
+END
+MathFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/common/MathFunctions.java
+END
+JavaMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/common/JavaMacro.java
+END
+NoVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/common/NoVariables.java
+END
+SimpleVariableDeclarations.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/11764/trunk/weka/src/main/java/weka/core/expressionlanguage/common/SimpleVariableDeclarations.java
+END
+IfElseMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/common/IfElseMacro.java
+END
+MacroDeclarationsCompositor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/common/MacroDeclarationsCompositor.java
+END
+Primitives.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/11552/trunk/weka/src/main/java/weka/core/expressionlanguage/common/Primitives.java
+END
+VariableDeclarationsCompositor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/common/VariableDeclarationsCompositor.java
+END
+Operators.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/11552/trunk/weka/src/main/java/weka/core/expressionlanguage/common/Operators.java
+END

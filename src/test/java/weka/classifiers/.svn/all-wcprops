@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/weka/!svn/ver/11475/trunk/weka/src/test/java/weka/classifiers
+END
+AbstractClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/10222/trunk/weka/src/test/java/weka/classifiers/AbstractClassifierTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/11475/trunk/weka/src/test/java/weka/classifiers/AllTests.java
+END
+CostMatrixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/11474/trunk/weka/src/test/java/weka/classifiers/CostMatrixTest.java
+END

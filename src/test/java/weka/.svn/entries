@@ -1,0 +1,89 @@
+10
+
+dir
+12042
+https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/test/java/weka
+https://svn.cms.waikato.ac.nz/svn/weka
+
+
+
+2015-10-14T00:48:40.941512Z
+12035
+mhall
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+associations
+dir
+
+test
+dir
+
+experiment
+dir
+
+datagenerators
+dir
+
+classifiers
+dir
+
+core
+dir
+
+filters
+dir
+
+attributeSelection
+dir
+
+clusterers
+dir
+
+AllTests.java
+file
+
+
+
+
+2015-10-21T04:04:02.546112Z
+a12a9789e1f67eff67df7fb7f6af6342
+2013-11-14T00:16:07.591242Z
+10160
+eibe
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1986
+

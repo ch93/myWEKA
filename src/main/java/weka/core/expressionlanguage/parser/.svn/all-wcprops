@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/parser
+END
+Scanner.jflex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/parser/Scanner.jflex
+END
+Parser.cup
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/parser/Parser.cup
+END
+sym.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/parser/sym.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/parser/Scanner.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/11497/trunk/weka/src/main/java/weka/core/expressionlanguage/parser/Parser.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weka/!svn/ver/11907/trunk/weka/src/main/java/weka/classifiers/trees
+END
+RandomTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/11907/trunk/weka/src/main/java/weka/classifiers/trees/RandomTree.java
+END
+M5P.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/10153/trunk/weka/src/main/java/weka/classifiers/trees/M5P.java
+END
+RandomForest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/11907/trunk/weka/src/main/java/weka/classifiers/trees/RandomForest.java
+END
+J48.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/11194/trunk/weka/src/main/java/weka/classifiers/trees/J48.java
+END
+DecisionStump.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/9171/trunk/weka/src/main/java/weka/classifiers/trees/DecisionStump.java
+END
+REPTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/11615/trunk/weka/src/main/java/weka/classifiers/trees/REPTree.java
+END
+HoeffdingTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/11006/trunk/weka/src/main/java/weka/classifiers/trees/HoeffdingTree.java
+END
+LMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/11568/trunk/weka/src/main/java/weka/classifiers/trees/LMT.java
+END

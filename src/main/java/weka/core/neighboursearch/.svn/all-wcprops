@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/11269/trunk/weka/src/main/java/weka/core/neighboursearch
+END
+PerformanceStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/10141/trunk/weka/src/main/java/weka/core/neighboursearch/PerformanceStats.java
+END
+TreePerformanceStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/10141/trunk/weka/src/main/java/weka/core/neighboursearch/TreePerformanceStats.java
+END
+FilteredNeighbourSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/11234/trunk/weka/src/main/java/weka/core/neighboursearch/FilteredNeighbourSearch.java
+END
+BallTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/10141/trunk/weka/src/main/java/weka/core/neighboursearch/BallTree.java
+END
+NearestNeighbourSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/10203/trunk/weka/src/main/java/weka/core/neighboursearch/NearestNeighbourSearch.java
+END
+LinearNNSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/10141/trunk/weka/src/main/java/weka/core/neighboursearch/LinearNNSearch.java
+END
+CoverTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/10203/trunk/weka/src/main/java/weka/core/neighboursearch/CoverTree.java
+END
+KDTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/10141/trunk/weka/src/main/java/weka/core/neighboursearch/KDTree.java
+END
